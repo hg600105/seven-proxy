@@ -4,6 +4,6 @@
 ### 一键脚本自定义
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/hg600105/seven-proxy/refs/heads/main/argo.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Daelli/seven-proxy/refs/heads/main/argo.sh)
 ```
 
